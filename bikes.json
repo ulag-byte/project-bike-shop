@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "Voyager Pro",
+        "category": "Hybrid",
+        "description": "A perfect bike for urban commuters.",
+        "price": 1608.05,
+        "image_path": "/images/bike_1.png",
+        "available_in_store": false,
+        "stock": 4,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Comet Max",
+        "category": "Hybrid",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 2836.64,
+        "image_path": "/images/bike_2.png",
+        "available_in_store": false,
+        "stock": 5,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Eclipse Elite",
+        "category": "Gravel",
+        "description": "A perfect bike for urban commuters.",
+        "price": 1337.39,
+        "image_path": "/images/bike_3.png",
+        "available_in_store": false,
+        "stock": 6,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Trailblazer Touring",
+        "category": "Hybrid",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 2247.92,
+        "image_path": "/images/bike_4.png",
+        "available_in_store": false,
+        "stock": 16,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Zephyr X",
+        "category": "Electric",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 4991.23,
+        "image_path": "/images/bike_5.png",
+        "available_in_store": true,
+        "stock": 10,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Eclipse Elite",
+        "category": "Gravel",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 2911.79,
+        "image_path": "/images/bike_6.png",
+        "available_in_store": true,
+        "stock": 10,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Adventure RX",
+        "category": "Electric",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 1519.78,
+        "image_path": "/images/bike_7.png",
+        "available_in_store": false,
+        "stock": 18,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Speedster Sport",
+        "category": "Hybrid",
+        "description": "A perfect bike for urban commuters.",
+        "price": 2619.55,
+        "image_path": "/images/bike_8.png",
+        "available_in_store": true,
+        "stock": 2,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Eclipse Touring",
+        "category": "Gravel",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 1890.65,
+        "image_path": "/images/bike_9.png",
+        "available_in_store": true,
+        "stock": 1,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Eclipse Plus",
+        "category": "Gravel",
+        "description": "A perfect bike for urban commuters.",
+        "price": 3498.23,
+        "image_path": "/images/bike_10.png",
+        "available_in_store": false,
+        "stock": 19,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Comet RX",
+        "category": "Gravel",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 4529.24,
+        "image_path": "/images/bike_11.png",
+        "available_in_store": false,
+        "stock": 6,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Comet Elite",
+        "category": "BMX",
+        "description": "A perfect bike for urban commuters.",
+        "price": 4421.84,
+        "image_path": "/images/bike_12.png",
+        "available_in_store": false,
+        "stock": 1,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Voyager Plus",
+        "category": "Electric",
+        "description": "A perfect bike for urban commuters.",
+        "price": 1411.13,
+        "image_path": "/images/bike_13.png",
+        "available_in_store": true,
+        "stock": 9,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Voyager Elite",
+        "category": "Electric",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 3837.36,
+        "image_path": "/images/bike_14.png",
+        "available_in_store": true,
+        "stock": 11,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Comet Max",
+        "category": "Gravel",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 609.68,
+        "image_path": "/images/bike_15.png",
+        "available_in_store": false,
+        "stock": 8,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Speedster Max",
+        "category": "Gravel",
+        "description": "A perfect bike for urban commuters.",
+        "price": 1302.91,
+        "image_path": "/images/bike_16.png",
+        "available_in_store": true,
+        "stock": 8,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Urban RX",
+        "category": "Electric",
+        "description": "A perfect bike for urban commuters.",
+        "price": 1660.93,
+        "image_path": "/images/bike_17.png",
+        "available_in_store": false,
+        "stock": 5,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Urban Touring",
+        "category": "Electric",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 2046.44,
+        "image_path": "/images/bike_18.png",
+        "available_in_store": false,
+        "stock": 3,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Zephyr X",
+        "category": "Electric",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 1802.31,
+        "image_path": "/images/bike_19.png",
+        "available_in_store": false,
+        "stock": 19,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Comet Max",
+        "category": "Mountain Series",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 595.99,
+        "image_path": "/images/bike_20.png",
+        "available_in_store": false,
+        "stock": 3,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Voyager Sport",
+        "category": "Mountain Series",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 4595.95,
+        "image_path": "/images/bike_21.png",
+        "available_in_store": false,
+        "stock": 13,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Eclipse Elite",
+        "category": "Electric",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 3270.35,
+        "image_path": "/images/bike_22.png",
+        "available_in_store": false,
+        "stock": 14,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Zephyr X",
+        "category": "Street Series",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 1700.58,
+        "image_path": "/images/bike_23.png",
+        "available_in_store": true,
+        "stock": 18,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Trailblazer GT",
+        "category": "Street Series",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 1651.9,
+        "image_path": "/images/bike_24.png",
+        "available_in_store": true,
+        "stock": 16,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Comet Plus",
+        "category": "Mountain Series",
+        "description": "A perfect bike for urban commuters.",
+        "price": 1649.71,
+        "image_path": "/images/bike_25.png",
+        "available_in_store": false,
+        "stock": 13,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Zephyr Pro",
+        "category": "Gravel",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 2310.13,
+        "image_path": "/images/bike_26.png",
+        "available_in_store": true,
+        "stock": 16,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Voyager X",
+        "category": "Mountain Series",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 2505.95,
+        "image_path": "/images/bike_27.png",
+        "available_in_store": true,
+        "stock": 2,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Titan Pro",
+        "category": "Street Series",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 3626.64,
+        "image_path": "/images/bike_28.png",
+        "available_in_store": true,
+        "stock": 10,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Trailblazer Sport",
+        "category": "Road Series",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 4741.29,
+        "image_path": "/images/bike_29.png",
+        "available_in_store": false,
+        "stock": 20,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Speedster Lite",
+        "category": "Road Series",
+        "description": "A perfect bike for urban commuters.",
+        "price": 4364.54,
+        "image_path": "/images/bike_30.png",
+        "available_in_store": false,
+        "stock": 15,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Trailblazer X",
+        "category": "BMX",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 3173.39,
+        "image_path": "/images/bike_31.png",
+        "available_in_store": true,
+        "stock": 18,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Zephyr Plus",
+        "category": "Road Series",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 3744.69,
+        "image_path": "/images/bike_32.png",
+        "available_in_store": true,
+        "stock": 17,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Urban GT",
+        "category": "Hybrid",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 4593.18,
+        "image_path": "/images/bike_33.png",
+        "available_in_store": true,
+        "stock": 6,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Voyager Plus",
+        "category": "BMX",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 2004.41,
+        "image_path": "/images/bike_34.png",
+        "available_in_store": true,
+        "stock": 8,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Trailblazer RX",
+        "category": "BMX",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 1466.79,
+        "image_path": "/images/bike_35.png",
+        "available_in_store": true,
+        "stock": 7,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Speedster Sport",
+        "category": "Hybrid",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 2229.22,
+        "image_path": "/images/bike_36.png",
+        "available_in_store": true,
+        "stock": 1,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Titan Touring",
+        "category": "Electric",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 4703.73,
+        "image_path": "/images/bike_37.png",
+        "available_in_store": true,
+        "stock": 5,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Eclipse Elite",
+        "category": "Gravel",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 2245.17,
+        "image_path": "/images/bike_38.png",
+        "available_in_store": false,
+        "stock": 16,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Eclipse RX",
+        "category": "BMX",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 3487.04,
+        "image_path": "/images/bike_39.png",
+        "available_in_store": false,
+        "stock": 13,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Urban GT",
+        "category": "Electric",
+        "description": "A perfect bike for urban commuters.",
+        "price": 3698.15,
+        "image_path": "/images/bike_40.png",
+        "available_in_store": false,
+        "stock": 14,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Voyager Lite",
+        "category": "Hybrid",
+        "description": "A perfect bike for urban commuters.",
+        "price": 4544.52,
+        "image_path": "/images/bike_41.png",
+        "available_in_store": true,
+        "stock": 16,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Speedster Lite",
+        "category": "Electric",
+        "description": "A perfect bike for urban commuters.",
+        "price": 2965.51,
+        "image_path": "/images/bike_42.png",
+        "available_in_store": false,
+        "stock": 6,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Trailblazer X",
+        "category": "BMX",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 973.17,
+        "image_path": "/images/bike_43.png",
+        "available_in_store": true,
+        "stock": 9,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Eclipse RX",
+        "category": "Road Series",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 2722.78,
+        "image_path": "/images/bike_44.png",
+        "available_in_store": true,
+        "stock": 7,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Zephyr Plus",
+        "category": "Street Series",
+        "description": "A perfect bike for urban commuters.",
+        "price": 2046.55,
+        "image_path": "/images/bike_45.png",
+        "available_in_store": false,
+        "stock": 3,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Eclipse RX",
+        "category": "Mountain Series",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 1715.29,
+        "image_path": "/images/bike_46.png",
+        "available_in_store": true,
+        "stock": 19,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Urban Sport",
+        "category": "Mountain Series",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 1492.57,
+        "image_path": "/images/bike_47.png",
+        "available_in_store": true,
+        "stock": 14,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Speedster Plus",
+        "category": "Mountain Series",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 2594.31,
+        "image_path": "/images/bike_48.png",
+        "available_in_store": false,
+        "stock": 12,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Titan Max",
+        "category": "Street Series",
+        "description": "A perfect bike for urban commuters.",
+        "price": 2900.85,
+        "image_path": "/images/bike_49.png",
+        "available_in_store": false,
+        "stock": 15,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Titan Lite",
+        "category": "Road Series",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 1426.12,
+        "image_path": "/images/bike_50.png",
+        "available_in_store": false,
+        "stock": 16,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Zephyr Touring",
+        "category": "BMX",
+        "description": "A perfect bike for urban commuters.",
+        "price": 4028.37,
+        "image_path": "/images/bike_51.png",
+        "available_in_store": true,
+        "stock": 20,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Adventure Lite",
+        "category": "Electric",
+        "description": "A perfect bike for urban commuters.",
+        "price": 2281.73,
+        "image_path": "/images/bike_52.png",
+        "available_in_store": false,
+        "stock": 16,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Voyager Plus",
+        "category": "Hybrid",
+        "description": "A perfect bike for urban commuters.",
+        "price": 3683.18,
+        "image_path": "/images/bike_53.png",
+        "available_in_store": true,
+        "stock": 15,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Comet Plus",
+        "category": "Mountain Series",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 3968.9,
+        "image_path": "/images/bike_54.png",
+        "available_in_store": false,
+        "stock": 16,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Falcon X",
+        "category": "Road Series",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 3313.46,
+        "image_path": "/images/bike_55.png",
+        "available_in_store": true,
+        "stock": 18,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Eclipse Lite",
+        "category": "Mountain Series",
+        "description": "A perfect bike for urban commuters.",
+        "price": 2585.58,
+        "image_path": "/images/bike_56.png",
+        "available_in_store": true,
+        "stock": 20,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Falcon Elite",
+        "category": "BMX",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 4692.84,
+        "image_path": "/images/bike_57.png",
+        "available_in_store": true,
+        "stock": 20,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Speedster Max",
+        "category": "Street Series",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 4625.82,
+        "image_path": "/images/bike_58.png",
+        "available_in_store": true,
+        "stock": 20,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Titan Plus",
+        "category": "BMX",
+        "description": "A perfect bike for urban commuters.",
+        "price": 1584.0,
+        "image_path": "/images/bike_59.png",
+        "available_in_store": true,
+        "stock": 19,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Urban Pro",
+        "category": "Street Series",
+        "description": "A perfect bike for urban commuters.",
+        "price": 2824.94,
+        "image_path": "/images/bike_60.png",
+        "available_in_store": false,
+        "stock": 8,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Eclipse Pro",
+        "category": "Hybrid",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 622.48,
+        "image_path": "/images/bike_61.png",
+        "available_in_store": false,
+        "stock": 19,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Speedster Sport",
+        "category": "BMX",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 3466.81,
+        "image_path": "/images/bike_62.png",
+        "available_in_store": false,
+        "stock": 18,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Eclipse GT",
+        "category": "Road Series",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 3887.78,
+        "image_path": "/images/bike_63.png",
+        "available_in_store": true,
+        "stock": 12,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Trailblazer RX",
+        "category": "Gravel",
+        "description": "A perfect bike for urban commuters.",
+        "price": 4890.33,
+        "image_path": "/images/bike_64.png",
+        "available_in_store": false,
+        "stock": 14,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Falcon Lite",
+        "category": "Mountain Series",
+        "description": "A perfect bike for urban commuters.",
+        "price": 3027.59,
+        "image_path": "/images/bike_65.png",
+        "available_in_store": true,
+        "stock": 13,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Adventure Pro",
+        "category": "BMX",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 2653.53,
+        "image_path": "/images/bike_66.png",
+        "available_in_store": false,
+        "stock": 18,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Trailblazer Max",
+        "category": "Mountain Series",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 1514.83,
+        "image_path": "/images/bike_67.png",
+        "available_in_store": true,
+        "stock": 3,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Urban GT",
+        "category": "Hybrid",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 2583.43,
+        "image_path": "/images/bike_68.png",
+        "available_in_store": false,
+        "stock": 9,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Comet GT",
+        "category": "Hybrid",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 1791.81,
+        "image_path": "/images/bike_69.png",
+        "available_in_store": true,
+        "stock": 11,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Zephyr Plus",
+        "category": "Electric",
+        "description": "A perfect bike for urban commuters.",
+        "price": 3304.96,
+        "image_path": "/images/bike_70.png",
+        "available_in_store": false,
+        "stock": 9,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Comet GT",
+        "category": "Electric",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 2345.52,
+        "image_path": "/images/bike_71.png",
+        "available_in_store": true,
+        "stock": 9,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Trailblazer Max",
+        "category": "Gravel",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 2056.22,
+        "image_path": "/images/bike_72.png",
+        "available_in_store": false,
+        "stock": 8,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Urban Sport",
+        "category": "Street Series",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 783.29,
+        "image_path": "/images/bike_73.png",
+        "available_in_store": false,
+        "stock": 6,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Speedster RX",
+        "category": "Gravel",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 1370.29,
+        "image_path": "/images/bike_74.png",
+        "available_in_store": false,
+        "stock": 18,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Comet GT",
+        "category": "Electric",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 4422.96,
+        "image_path": "/images/bike_75.png",
+        "available_in_store": true,
+        "stock": 10,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Voyager X",
+        "category": "Mountain Series",
+        "description": "A perfect bike for urban commuters.",
+        "price": 4816.43,
+        "image_path": "/images/bike_76.png",
+        "available_in_store": false,
+        "stock": 15,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Speedster X",
+        "category": "Mountain Series",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 818.94,
+        "image_path": "/images/bike_77.png",
+        "available_in_store": true,
+        "stock": 17,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Zephyr Touring",
+        "category": "Electric",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 2966.02,
+        "image_path": "/images/bike_78.png",
+        "available_in_store": true,
+        "stock": 8,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Comet Plus",
+        "category": "Mountain Series",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 3352.75,
+        "image_path": "/images/bike_79.png",
+        "available_in_store": true,
+        "stock": 6,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Eclipse Plus",
+        "category": "Street Series",
+        "description": "A perfect bike for urban commuters.",
+        "price": 831.45,
+        "image_path": "/images/bike_80.png",
+        "available_in_store": false,
+        "stock": 8,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Comet Lite",
+        "category": "Gravel",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 3841.18,
+        "image_path": "/images/bike_81.png",
+        "available_in_store": true,
+        "stock": 8,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Urban Elite",
+        "category": "Road Series",
+        "description": "A perfect bike for urban commuters.",
+        "price": 1811.93,
+        "image_path": "/images/bike_82.png",
+        "available_in_store": false,
+        "stock": 10,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Zephyr X",
+        "category": "Road Series",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 1937.09,
+        "image_path": "/images/bike_83.png",
+        "available_in_store": true,
+        "stock": 17,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Urban Lite",
+        "category": "Gravel",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 4241.38,
+        "image_path": "/images/bike_84.png",
+        "available_in_store": true,
+        "stock": 4,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Urban Plus",
+        "category": "Road Series",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 4992.11,
+        "image_path": "/images/bike_85.png",
+        "available_in_store": true,
+        "stock": 9,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Comet Max",
+        "category": "Road Series",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 2601.43,
+        "image_path": "/images/bike_86.png",
+        "available_in_store": false,
+        "stock": 12,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Falcon Elite",
+        "category": "Mountain Series",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 1806.22,
+        "image_path": "/images/bike_87.png",
+        "available_in_store": false,
+        "stock": 3,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Trailblazer Pro",
+        "category": "BMX",
+        "description": "A perfect bike for urban commuters.",
+        "price": 709.17,
+        "image_path": "/images/bike_88.png",
+        "available_in_store": false,
+        "stock": 20,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Trailblazer GT",
+        "category": "Street Series",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 587.21,
+        "image_path": "/images/bike_89.png",
+        "available_in_store": false,
+        "stock": 6,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Zephyr Sport",
+        "category": "Street Series",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 2410.39,
+        "image_path": "/images/bike_90.png",
+        "available_in_store": false,
+        "stock": 17,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Titan Max",
+        "category": "Electric",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 2139.85,
+        "image_path": "/images/bike_91.png",
+        "available_in_store": false,
+        "stock": 20,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Adventure RX",
+        "category": "Street Series",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 1112.22,
+        "image_path": "/images/bike_92.png",
+        "available_in_store": false,
+        "stock": 12,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Eclipse Max",
+        "category": "Gravel",
+        "description": "A perfect bike for urban commuters.",
+        "price": 3325.46,
+        "image_path": "/images/bike_93.png",
+        "available_in_store": true,
+        "stock": 4,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Speedster Elite",
+        "category": "Mountain Series",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 3296.79,
+        "image_path": "/images/bike_94.png",
+        "available_in_store": false,
+        "stock": 11,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Titan Elite",
+        "category": "Electric",
+        "description": "A perfect bike for urban commuters.",
+        "price": 3008.57,
+        "image_path": "/images/bike_95.png",
+        "available_in_store": true,
+        "stock": 8,
+        "wheel_size": "29 inches"
+    },
+    {
+        "name": "Titan Pro",
+        "category": "Gravel",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 4755.28,
+        "image_path": "/images/bike_96.png",
+        "available_in_store": false,
+        "stock": 19,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Urban X",
+        "category": "Hybrid",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 1679.01,
+        "image_path": "/images/bike_97.png",
+        "available_in_store": false,
+        "stock": 6,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Comet Elite",
+        "category": "Mountain Series",
+        "description": "A perfect bike for mountain lovers.",
+        "price": 4143.34,
+        "image_path": "/images/bike_98.png",
+        "available_in_store": true,
+        "stock": 12,
+        "wheel_size": "27.5 inches"
+    },
+    {
+        "name": "Adventure GT",
+        "category": "Road Series",
+        "description": "A perfect bike for speed enthusiasts.",
+        "price": 1498.7,
+        "image_path": "/images/bike_99.png",
+        "available_in_store": true,
+        "stock": 8,
+        "wheel_size": "26 inches"
+    },
+    {
+        "name": "Trailblazer Pro",
+        "category": "Street Series",
+        "description": "A perfect bike for long-distance riders.",
+        "price": 1987.35,
+        "image_path": "/images/bike_100.png",
+        "available_in_store": false,
+        "stock": 3,
+        "wheel_size": "29 inches"
+    }
+]

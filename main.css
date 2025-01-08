@@ -1,0 +1,654 @@
+*, html, body{
+    padding:0;
+    margin:0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: inherit;
+    color: inherit;
+    transition: all 0.2s linear;
+}
+
+a:hover{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+
+body{
+    height: 1282px;
+    background: #E5E5E5;
+    background-image: url("asoggetti-HPpj2190tGs-unsplash_(2).jpg");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 5px 5px 200px black;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.logo{
+    margin-left: 70px;
+}
+
+.logo_image{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+
+.carts{
+    display: flex;
+    align-items:center;
+}
+
+.card_2{
+    width: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 35px;
+    margin-right: 75px;
+    cursor: pointer;
+}
+
+.card_2 img{
+    margin-bottom: 7px;
+}
+
+/* buy-content */
+
+.buy-content{
+    display: none;
+    position: absolute;
+    right: 165px;
+    top: 90px;
+    width: 250px;
+    height: 150px;
+    max-height: 750px;
+    background-color: yellow;
+}
+
+.btn-buy-content{
+    cursor: pointer;
+}
+
+.btn-close-buy-content{
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-right: 5px;
+    float: right;
+}
+
+
+/* buy-content end */
+
+/* sliderbar */
+.navbar-links{
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    display: none;
+    width: 30vh;
+    height: 100vh;
+    background-color: #564a4a;
+    opacity: .96;
+}
+
+.link{
+    max-width: 200px;
+    height: 25px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    flex-wrap: nowrap;
+    
+}
+
+.navbar-links{
+    font-family: 'Goblin One', cursive;
+    font-size: 21px;
+    font-weight: 600;
+    transition: color .2s linear;
+}
+
+.navbar-links div:hover{
+    color: white;
+}
+
+.close-navbar{
+    cursor: pointer;
+    margin-bottom: 60px;
+}
+
+.close-navbar img{
+    transition: all .25s linear;
+    float: right;
+
+}
+
+.close-navbar img:hover{
+    transform: rotate(180deg);
+}
+
+
+
+/* slidebar end */
+
+.input input{
+    width: 400px;
+    height: 30px;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 15.5px;
+}
+
+.input {
+    position: relative;
+  }
+  
+  .input > i {
+    position: absolute;
+    display: block;
+    transform: translate(0, -50%);
+    top: 50%;
+    pointer-events: none;
+    width: 25px;
+    text-align: center;
+    font-style: normal;
+  }
+  
+  .input> input {
+    padding-left: 25px;
+    padding-right: 0;
+  }
+  
+  .input > i {
+    left: 0;
+  }
+  
+  .input > input {
+    padding-left: 0;
+    padding-right: 25px;
+    text-align: right;
+  }
+
+/* main */
+
+
+
+.main{
+    margin-left: 70px;
+}
+
+.logo_name{
+    color:black;
+    margin-top: 552px;
+    font-family: "Futura PT";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.main-desc{
+    color:black;
+    margin-top: 6px;
+    font-family: "Futura PT";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 60px;
+}
+
+.shop_more{
+    margin-top: 25px;
+    color: #FFFFFF;
+    padding: 7px 19px 8px 18px;
+    border: 2px solid;
+    background: #000000;
+    font-family: "Futura PT";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    transition: all .2s linear;
+}
+
+.shop_more:hover{
+    color: #000000;
+    background-color: #fff;
+}
+
+.shop_more a:hover{
+    text-decoration: none;
+    color: #000000;
+    
+}
+
+/* sldier */
+
+.slider{
+    height: 500px;
+    margin-top: 500px;
+}
+
+.categories{
+    margin-left: 70px;
+    margin-bottom: 1px;
+    font-family: "Futura PT";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 60px;
+    color: #000000;
+}
+
+
+
+.carousel-item{
+    background-image: url(Rectangle_3.png);
+    background-position: 50%;
+    height: 300px;
+}
+
+.carousel-caption h5{
+    margin-bottom: -20px;
+    color:#FFFFFF;
+    font-family: 'Monoton', cursive;
+}
+
+@media screen and ( max-width: 1600px){
+    .slider{
+        height: 450px;
+    }
+    .carousel-item{
+        height: 275px;
+    }
+}
+
+.grid-page{
+    margin-top:200px;
+    width:100%;
+    height: 50%;
+}
+
+.grid-name{
+    margin-left: 70px;
+    margin-bottom: 31px;
+    font-family: "Futura PT";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 60px;
+    color: #000000;
+}
+.grid-table{
+    display: flex;
+    justify-content: center;
+}
+
+.grid-table-item-1{
+    position: relative;
+    width: 746px;
+    height: 466px;
+    background: #151515;
+}
+
+.grid-table-item-1 h2{
+    color: #fff;
+    position: absolute;
+    left: 248px;
+    top: 59px;
+
+}
+
+.grid-table-item-1 h6{
+    color: #fff;
+    position: absolute;
+    left: 417px;
+    top: 105px;
+}
+
+.grid-table-item-1 img{
+    position: absolute;
+    bottom: 0;
+    left:0;
+}
+
+.grid-table-item-2{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    margin-left: 30px;
+}
+
+
+.grid-2-item{
+    width: 243px;
+    height: 210px;
+    background: #151515;
+    margin-right: 33px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    
+
+}
+.grid-2-item img{
+    margin-top: 30px;
+    margin-bottom: 21px;
+}
+
+.grid-2-item h4{
+    color: #FFF;
+    font-family: "Futura PT";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+
+.lorem-text{
+    width:100%;
+    height: 275px;
+    background-color: #fff;
+    margin-top: 157px;
+    margin-bottom: 83px;
+    transition: background-color .4s linear;
+}
+
+.lorem-text:hover{
+    background-color: rgb(180,180,180);
+}
+
+.lorem-text p{
+    font-size: large;
+    font-weight:  bold;
+    color: black;
+    padding: 49px 70px 52px 70px;
+}
+
+
+.bike_streetster{
+    text-align: center;
+    color: black;
+}
+
+
+.Bike-desk-forImg{
+    display: flex;
+    justify-content: center;
+    margin-top: 63px;
+
+}
+.bike-desk-img{
+    margin: 0 120px;
+}
+
+.forblocks{
+    display: flex;
+    justify-content: center;
+}
+.block{
+    width: 331px;
+    height: 105px;
+    background-color: gainsboro;
+    border: 1px solid grey;
+    color: black;
+    margin: 0 20px;
+    text-align: center;
+}
+
+/* width: 331px;
+height: 105px; */
+
+
+.news{
+    margin-top: 170px;
+}
+
+.news-logo{
+    text-align: center;
+    color: black;
+}
+
+.news-forImg{
+    display: flex;
+    justify-content: center;
+    margin-top: 63px;
+}
+
+.news-forImg img{
+    margin: 0 20px;
+}
+
+.img-for-block-1{
+    width: 337px;
+}
+
+.img-for-block-2{
+    width: 337px;
+}
+
+.img-for-block-3{
+    width: 337px;
+}
+
+.news-block-for-blocks{
+    display: flex;
+    justify-content: center;
+}
+.news-block-for-blocks div{
+    margin: 0 20px;
+    text-align: center;
+}
+
+.block-1-text{
+    margin-top: 35px;
+    margin-bottom: 29px;
+}
+
+.block-1{
+    width: 337px;
+    height: 270px;
+    border: 1px solid black;
+    background-color: grey;
+}
+.block-2{
+    width: 337px;
+    height: 270px;
+    border: 1px solid black;
+    background-color: grey;
+}
+.block-3{
+    width: 337px;
+    height: 270px;
+    border: 1px solid black;
+    background-color: grey;
+}
+
+.news-forBtn{
+    display: flex;
+    justify-content: center;
+}
+
+.news-forBtn button{
+    margin: 0 20px;
+}
+
+.btn{
+    width: 337px;
+    height: 37px;
+    border: 1px solid black;
+    border-radius: 0;
+    background-color: white;
+    font-family: "Futura PT";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    transition: all .2s linear;
+}
+
+.btn:hover{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+
+
+.ad{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.h1-ad{
+    color:black;
+    margin-top: 284px;
+}
+
+.input-ad{
+    width: 415px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+
+.glow-on-hover {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+    margin-bottom: 238px;
+}
+
+.glow-on-hover:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+.glow-on-hover:active {
+    color: #000
+}
+
+.glow-on-hover:active:after {
+    background: transparent;
+}
+
+.glow-on-hover:hover:before {
+    opacity: 1;
+}
+
+.glow-on-hover:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
+
+
+
+footer{
+    width:100%;
+    height: 35vh;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+@media screen and (max-width: 1600px){
+    footer{
+        height: 50vh;
+    }
+}
+
+.footer-logo{
+    margin-top: 55px;
+    margin-left: 70px;
+    margin-right: 152px;
+    width: 180px;
+    height: 65px;
+    object-fit: cover;
+}
+
+
+footer ul{
+    margin-top: 76px;
+    margin-right: 108px;
+}
+
+.category{
+    margin-bottom: 16px;
+}
+
+.info{
+    margin-bottom: 16px;
+}
+footer ul li{
+    font-family: "Futura PT";
+    font-style: normal; 
+    font-weight: normal;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+@media screen and ( max-width: 1600px ){
+    footer ul {
+        margin-right: 85px;
+        
+    }
+    .icon_ul img{
+        margin-bottom: 10px;
+    }
+}
+
+.icon_ul img{
+    color: white;
+}

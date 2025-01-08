@@ -1,0 +1,86 @@
+/* General body styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('pngtree-mountain-bike-rider-riding-a-path-in-the-mountains-image_2908139.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Container styles */
+.container {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+/* Heading styles */
+h1 {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+    opacity: 1;
+}
+
+/* Form styles */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    font-size: 1rem;
+    color: #241d17;
+    margin-bottom: 5px;
+    display: block;
+}
+
+input {
+    color: #241d17;
+    width: 100%;
+    background-color: rgb(202,185,157, 0.2);
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid rgb(202,185,157, 0.2);
+    border-radius: 5px;
+}
+
+input::placeholder{
+    color: white;
+}
+
+input:focus {
+    border-color: #007bff;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Button styles */
+button {
+    padding: 12px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #5c4e3c;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #867860;
+}
